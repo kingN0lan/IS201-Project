@@ -1,0 +1,41 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis: bold;
+    color: blue;
+    text-align: center;
+}
+.main{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    color: rgb(40, 4, 102);
+    background-color: bisque;
+    font-family: cursive;
+    font-variant-east-asian: jis04;}
+h4{
+    font-size: large;   
+}
+h2{
+    font-size: xx-large;
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(48, 1, 54);
+}
+.nameTag{
+    font-style: italic;
+    font-family: cursive;
+}
+.titles{
+    font-style: oblique;
+    font-family: cursive;
+}
+.meme{
+    color: aquamarine;
+}
